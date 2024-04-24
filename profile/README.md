@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HiveHeroics&label=Profile%20views&color=0e75b6&style=flat" alt="HiveHeroics" /> </p>
 <!--
 
 **Here are some ideas to get you started:**
